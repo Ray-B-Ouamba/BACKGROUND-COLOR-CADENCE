@@ -1,4 +1,4 @@
-# WEBSITE-BACKGROUND-COLOR-COLOR-ALTERNATION-
+# WEBSITE-BACKGROUND-COLOR-ALTERNATION-
 
 Our webpage's background color must change to a different color after one click. 
 
