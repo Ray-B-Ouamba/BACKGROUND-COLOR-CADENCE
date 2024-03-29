@@ -15,6 +15,7 @@ We have designed our webpage so that a single click will cause the background co
 Understand the principles of JavaScript.
 
 ## OTHER PROJECT:
-**BACKGROUND-COLOR-FOR-YOUR-YOUTUBE:** https://ray-b-ouamba.github.io/SELECT-BACKGROUND-COLOR-FOR-YOUR-YOUTUBE-CHANNEL/
-
-**AWESOME BACKGROUND WEBSITE IMAGE CHANGE:** https://ray-b-ouamba.github.io/AWESOME-BACKGROUND-WEBSITE-IMAGE-CHANGE/
+**BACKGROUND-COLOR-FOR-YOUR-YOUTUBE:** 
+https://ray-b-ouamba.github.io/SELECT-BACKGROUND-COLOR-FOR-YOUR-YOUTUBE-CHANNEL/
+**AWESOME BACKGROUND WEBSITE IMAGE CHANGE:** 
+https://ray-b-ouamba.github.io/AWESOME-BACKGROUND-WEBSITE-IMAGE-CHANGE/
