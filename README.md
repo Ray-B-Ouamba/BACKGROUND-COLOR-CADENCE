@@ -2,7 +2,7 @@
 
 Our webpage's background color must change to a different color after one click. 
 
-**PROJECT LINK:** https://ray-b-ouamba.github.io/WEBSITE-BACKGROUND-COLOR-COLOR-ALTERNATION-/
+**PROJECT LINK:**  https://ray-b-ouamba.github.io/WEBSITE-BACKGROUND-COLOR-ALTERNATION-/
 
 ## HOW IT'S MADE:
 
