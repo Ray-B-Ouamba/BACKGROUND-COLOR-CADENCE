@@ -1,6 +1,6 @@
 # BACKGROUND-COLOR-CADENCE
 
-Our webpage's background color must change to a different color after one click. 
+A fun JavaScript project called Background ColorCadence adds a vibrant pop of color to your online browsing. Every second, it smoothly changes the color of your background with a repetitive cadence, producing an engrossing visual experience.
 
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/WEBSITE-BACKGROUND-COLOR-ALTERNATION-/
 
