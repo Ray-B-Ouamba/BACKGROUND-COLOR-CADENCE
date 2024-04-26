@@ -8,7 +8,8 @@ Our webpage's background color must change to a different color after one click.
 
 **TECH USED:** 
 * HTML
-* CSS JAVASCRIPT
+* CSS
+* JAVASCRIPT
 
 ## OPTIMIZATIONS
 We have designed our webpage so that a single click will cause the background color to change.  We would like our background to automatically change color every 20 seconds.
