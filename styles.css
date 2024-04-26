@@ -1,4 +1,9 @@
-*{
-  background-image: url(Images/img2.PNG);
-  
+body{
+  text-align: center;
+  padding-top: 250px;
+  color :white;
+ 
+}
+h2{
+  line-height: 170%;
 }
