@@ -1,4 +1,4 @@
-# WEBSITE-BACKGROUND-COLOR-ALTERNATION-
+# BACKGROUND-COLOR-CADENCE
 
 Our webpage's background color must change to a different color after one click. 
 
