@@ -1,4 +1,4 @@
-aas21
+aaas21
 # BACKGROUND-COLOR-CADENCE
 
 A fun JavaScript project called Background ColorCadence adds a vibrant pop of color to your online browsing. Every second, it smoothly changes the color of your background with a repetitive cadence, producing an engrossing visual experience.
